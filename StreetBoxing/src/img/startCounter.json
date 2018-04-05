@@ -1,0 +1,44 @@
+{"frames": {
+
+"counter-1.png":
+{
+	"frame": {"x":4,"y":4,"w":42,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":77},
+	"sourceSize": {"w":42,"h":77}
+},
+"counter-2.png":
+{
+	"frame": {"x":50,"y":4,"w":69,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":77},
+	"sourceSize": {"w":69,"h":77}
+},
+"counter-3.png":
+{
+	"frame": {"x":123,"y":4,"w":16,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":76},
+	"sourceSize": {"w":16,"h":76}
+},
+"counter-fight.png":
+{
+	"frame": {"x":143,"y":4,"w":207,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":207,"h":100},
+	"sourceSize": {"w":207,"h":100}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "startCounter.png",
+	"format": "RGBA8888",
+	"size": {"w":354,"h":108},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c1f852a56fd1c64fde0ec1c82fc16aaf:cacbbd63169a55d6c296ef4be9987a2f:3ae0b3e4ae4ad0c0f14f8a8f198713f9$"
+}
+}
