@@ -11,8 +11,10 @@ class actionsAI {
 		this.checkDistance();
 		this.distanceCut();
 
-		let att = this.attack();
-		if(att) return att;
+		let isAttack = this.attack();
+		if(isAttack) {
+			return isAttack;
+		};
 
 		this.block();
 	}
